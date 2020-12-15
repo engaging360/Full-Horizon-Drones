@@ -5306,8 +5306,8 @@
           "alias": false,
           "_styles": {
             "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 1rem)",
-              "padding-bottom": "(@paddingBottom * 1rem)"
+              "padding-top": "(@paddingTop * 2rem)",
+              "padding-bottom": "(@paddingBottom * 2rem)"
             },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
