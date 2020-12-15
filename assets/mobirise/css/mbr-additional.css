@@ -4726,118 +4726,17 @@ a {
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-sjdF9JT0We {
-  padding-top: 1rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
+#custom-html-1p {
+  /* Type valid CSS here */
 }
-.cid-sjejJdOFyx {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-color: #ffffff;
+#custom-html-1p div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
 }
-.cid-sjejJdOFyx .oldcost {
-  text-decoration: line-through;
-  color: #353535;
-}
-.cid-sjejJdOFyx .currentcost {
-  color: #232323;
-}
-.cid-sjejJdOFyx .card-wrapper {
-  border-radius: 4px;
-  background: #efefef;
-}
-@media (min-width: 992px) {
-  .cid-sjejJdOFyx .text-box {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sjejJdOFyx .text-box {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sjejJdOFyx .text-box {
-    padding: 1rem;
-  }
-}
-.cid-sjejJdOFyx .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-sjekBGpsXg {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-color: #ffffff;
-}
-.cid-sjekBGpsXg .oldcost {
-  text-decoration: line-through;
-  color: #353535;
-}
-.cid-sjekBGpsXg .currentcost {
-  color: #232323;
-}
-.cid-sjekBGpsXg .card-wrapper {
-  border-radius: 4px;
-  background: #efefef;
-}
-@media (min-width: 992px) {
-  .cid-sjekBGpsXg .text-box {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sjekBGpsXg .text-box {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sjekBGpsXg .text-box {
-    padding: 1rem;
-  }
-}
-.cid-sjekBGpsXg .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-sjekCu4rYw {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-color: #ffffff;
-}
-.cid-sjekCu4rYw .oldcost {
-  text-decoration: line-through;
-  color: #353535;
-}
-.cid-sjekCu4rYw .currentcost {
-  color: #232323;
-}
-.cid-sjekCu4rYw .card-wrapper {
-  border-radius: 4px;
-  background: #efefef;
-}
-@media (min-width: 992px) {
-  .cid-sjekCu4rYw .text-box {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sjekCu4rYw .text-box {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sjekCu4rYw .text-box {
-    padding: 1rem;
-  }
-}
-.cid-sjekCu4rYw .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
+#custom-html-1p p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-sjdJpD432Z {
   padding-top: 15px;
