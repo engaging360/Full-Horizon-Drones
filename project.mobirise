@@ -105,7 +105,7 @@
       "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nJohno Kirby\nChief Drone Trainer",
       "showPopup": true,
       "showOnIE": true,
-      "autoOpenTimeout": 5,
+      "autoOpenTimeout": 20,
       "headerColor": "#22a5e5",
       "headerTitle": "👋 Chat with us on WhatsApp!",
       "zIndex": 10,
