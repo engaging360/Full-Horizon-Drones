@@ -1728,7 +1728,7 @@
                 "itemPrice": "Remote Pilot Licence<br>(RePL)&nbsp;<span style=\"font-weight: normal;\"> </span>5-day face-to-face in classroom<br>",
                 "oldPriceValue": "$26",
                 "sale": "$2250",
-                "button": "<a data-app-btn=\"true\" href=\"casa-accredited-courses.html#extForm4-21\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-info\">BOOK THIS COURSE</a>",
+                "button": "<a data-app-btn=\"true\" href=\"casa-accredited-courses.html#intensive\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-info\">BOOK THIS COURSE</a>",
                 "image": "@PROJECT_PATH@/assets/images/johnotraining-2.webp",
                 "thumb": "@PROJECT_PATH@/assets/images/johnotraining-2.webp",
                 "customStyle5": "display-5",
@@ -5458,7 +5458,7 @@
             "<script type=\"text/javascript\">\n    var exampleCallback = function() {\n        console.log('Order complete!');\n    };\n\n    window.EBWidgets.createWidget({\n        // Required\n        widgetType: 'checkout',\n        eventId: '134589405535',\n        iframeContainerId: 'eventbrite-widget-container-134589405535',\n\n        // Optional\n        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided\n        onOrderComplete: exampleCallback  // Method called when an order has successfully completed\n    });\n</script>"
           ],
           "_PHPplaceholders": [],
-          "_anchor": "custom-html-24",
+          "_anchor": "intensive",
           "_isUserblock": true,
           "_cid": "skBPV7H1wd",
           "_protectedParams": [],
