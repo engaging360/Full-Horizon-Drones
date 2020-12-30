@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Full Horizon Drones",
-    "currentPage": "casa-accredited-courses.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1771,7 +1771,7 @@
                 "itemTitle": "Licence Conversion<br>",
                 "itemDescription": "<div>If you already hold a pilot licence, PPL, CPL, or ATPL, then by completing the conversion course will equipped you with the required RPAS qualification.</div><div><ul><li>Five hours of practical flight time plus CASA flight assessment.</li><li><span style=\"color: rgb(0, 0, 0);\">Classroom theory which will cover;</span></li></ul><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; - Operating Rules for RPA.​<br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; - Knowledge of Operations &amp; Procedures.</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - Electronic systems for RPA.</div></div>",
                 "itemPriceTitle": "From: ",
-                "itemPrice": "PPL, CPL, ATPL to RPAS<br>2-day's face to face in classroom<br>",
+                "itemPrice": "PPL, CPL, ATPL to RPAS<br>up to 2-day's practical<br>",
                 "oldPriceValue": "$26",
                 "sale": "$885",
                 "button": "<a data-app-btn=\"true\" href=\"casa-accredited-courses.html#extForm4-21\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-info\">BOOK THIS COURSE</a>",
